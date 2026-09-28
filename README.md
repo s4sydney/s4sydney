@@ -22,17 +22,6 @@ When I'm not working with data, I enjoy listening to music and making contents.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://s4sydney.github.io/)
       
-## 🔭 What I'm Currently Working On 
-
-- **Project A:** Fraud Detection Model: Building an XGBoost + LightGBM classifier on the BAF NeurIPS 2022 dataset using SMOTE-ENN to handle class imbalance  applying SHAP for explainability.  
-- **Project B:** HireSignal v2: Extending UK graduate job market analysis to track skill demand shifts and add salary banding.
-
-
-## 🌱 Currently Learning 
-
-- Cloud data: Microsoft Azure (DP-900 fundamentals cert - free learning path)
-- dbt (data build tool) - showing up in every modern SQL stack
-  
 ## 🛠️ Technical Skillset
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
